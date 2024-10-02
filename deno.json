@@ -1,5 +1,6 @@
 {
   "name": "@test/pkg-a",
+  "exports": "./mod.ts",
   "fmt": {
     "indentWidth": 2,
     "exclude": [
